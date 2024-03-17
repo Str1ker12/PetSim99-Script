@@ -13,7 +13,7 @@
 
 
 ## Script
-```loadstring(game:HttpGet("https://pastebin.com/raw/j4TdnYkW", true))()```
+```loadstring(game:HttpGet("https://pastebin.com/raw/1DbXCHqD", true))()```
 
 ## 🚀 About Me
 I'm a lua/python scripter. I've been script as a hobby for about 5 years now.
